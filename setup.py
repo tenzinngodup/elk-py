@@ -8,6 +8,5 @@ setup(
     url='https://github.com/tenzinngodup/elk-py.git',
     author='Tenzin Ngodup',
     author_email='tenngo@yahoo.com',
-    license='MIT',
-    zip_safe=False
+    license='MIT'
 )

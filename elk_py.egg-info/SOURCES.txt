@@ -2,5 +2,4 @@ setup.py
 elk_py.egg-info/PKG-INFO
 elk_py.egg-info/SOURCES.txt
 elk_py.egg-info/dependency_links.txt
-elk_py.egg-info/not-zip-safe
 elk_py.egg-info/top_level.txt
