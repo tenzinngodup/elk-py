@@ -5,7 +5,7 @@ setup(
     version='0.1',                          # Update the version number for new releases
     scripts=['_init_.py'],                  # The name of your scipt, and also the command you'll be using for calling it
     description='The funniest joke in the world',
-    url='https://github.com/tenzinngodup/elk-py.git',
+    url='https://github.com/tenzinngodup/elk-py',
     author='Tenzin Ngodup',
     author_email='tenngo@yahoo.com',
     license='MIT'
